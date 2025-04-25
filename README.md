@@ -31,7 +31,7 @@ Além disso, trabalhei com bases de dados desconhecidas, o que foi essencial par
 ## 🔗 Acesse o notebook no Google Colab
 
 Você pode explorar todo o conteúdo interativo aqui:  
-👉 [Google Colab - Análise Descritiva com Python](https://lnkd.in/d2h4DEBD)
+👉 [Google Colab - Análise Descritiva com Python](https://colab.research.google.com/drive/1qYuSamTm_EMqVmoi83qQrXkuyY4IU8ce?usp=sharing#scrollTo=5LaSFhWqN-jg)
 
 ---
 
